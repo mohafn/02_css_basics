@@ -1,37 +1,37 @@
-##Selector identification
+## Selector identification
 
 Identify the selectors in each style and what HTML element(s) they target.
 Also, which of these examples have errors? What are they?
 
-###1
+### 1
 ```
 p {
   color: white;
 }
 ```
 
-###2
+### 2
 ```
 span {
   padding: 15px;
 }
 ```
 
-###3
+### 3
 ```
 table td {
   color: #222;
 }
 ```
 
-###4
+### 4
 ```
 .lede-section #left-side {
   position: absolute;
 }
 ```
 
-###5
+### 5
 ```
 #section-9 {
   display: block
@@ -40,9 +40,9 @@ table td {
 }
 ```
 
-##What's different about the following three selectors?
+## What's different about the following three selectors?
 
-###6
+### 6
 ```
 .fewd25-page-section .another-class {
   text-align: center;
@@ -50,7 +50,7 @@ table td {
 ```
 
 
-###7
+### 7
 ```
 .fewd25-page-section, .another-class {
   text-align: center;
@@ -58,7 +58,7 @@ table td {
 ```
 
 
-###8
+### 8
 ```
 .fewd25-page-section.another-class {
   text-align: center;
