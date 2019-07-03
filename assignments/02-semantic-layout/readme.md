@@ -1,4 +1,4 @@
-##Think About Structure and Semantics
+## Think About Structure and Semantics
 
 Markup this page (Don't worry about 'Next in Top Stories'):
 [https://www.technologyreview.com/s/601756/if-the-world-gives-up-meat-we-can-still-have-burgers/?set=601752](https://www.technologyreview.com/s/601756/if-the-world-gives-up-meat-we-can-still-have-burgers/?set=601752)
