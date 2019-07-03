@@ -1,4 +1,4 @@
-#HTML Tables
+# HTML Tables
 
 Try laying this out into an HTML table. NOTE - you also have a table sample HTML file in this folder to help you out.
 
