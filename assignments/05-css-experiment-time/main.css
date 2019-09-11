@@ -1,6 +1,16 @@
 .hp-issue-index {
   text-decoration: underline;
 }
+div {color: beige;
+    background: black;
+    padding: 3pc;
+    
+
+}
+p{
+  padding: 0pc;
+  color: blue;
+}
 
 ul .hp-issue-article-list {
   color: red;
